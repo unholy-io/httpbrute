@@ -1,0 +1,4 @@
+facebook.com
+http://google.com
+https://yahoo.com
+microsoft.com
